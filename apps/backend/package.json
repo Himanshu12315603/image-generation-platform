@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "express": "^5.2.1",
-    "common": "*"
+    "common": "*",
+    "db": "*"
   },
   "peerDependencies": {
     "typescript": "^5"
